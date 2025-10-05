@@ -51,7 +51,7 @@ lib/
     ```bash
    flutter pub get
    ```
-2. Instale as dependências:
+2. Execute em emulador ou dispositivo físico:
     ```bash
    flutter run
    ```
